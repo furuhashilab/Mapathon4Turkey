@@ -2,6 +2,9 @@
 **行うマッピングプロジェクト:**   
 https://tasks.hotosm.org/projects/14233/tasks?fbclid=IwAR3_SdHcsro6wXTFqqpuWrfE-JaanS-Pdv7Mn6olPZSUvlOX0ksxpXZu-nk
 
+**プレゼン資料:**   
+https://docs.google.com/presentation/d/15DNLU1KIvZxUeESJ7qj7TchwxiUShziuWwC0negn2C0/edit?usp=sharing
+
 **応募フォーム:**  
 https://docs.google.com/forms/d/e/1FAIpQLSdZDG0tUAz-OVkwzwPcBPfoE9qjXLzHCK4XZnmibOjEtwXIyw/viewform?usp=sf_link  
 
