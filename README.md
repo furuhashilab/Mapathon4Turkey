@@ -6,7 +6,7 @@ https://tasks.hotosm.org/projects/14233/tasks?fbclid=IwAR3_SdHcsro6wXTFqqpuWrfE-
 https://docs.google.com/forms/d/e/1FAIpQLSdZDG0tUAz-OVkwzwPcBPfoE9qjXLzHCK4XZnmibOjEtwXIyw/viewform?usp=sf_link  
 
 **マッパソンポスター:**     
-<img src="https://user-images.githubusercontent.com/29940264/217781079-3b6ff1c0-b6be-4b67-b938-cb15ec772977.png" width="500">
+<img src="https://user-images.githubusercontent.com/29940264/219576995-72790150-8ad5-4d0d-b61e-80696f80be42.png" width="500">
 
 **Certfication申し込みフォーム:**   
 https://forms.gle/B9XGHaHHcHj5LPAs5
